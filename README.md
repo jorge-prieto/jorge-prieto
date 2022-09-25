@@ -1,11 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jorge Prieto</h1>
 <h2 align="center"><a href="#" align="center"><img width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a></h2>
-<h3 align="justify">I am passionate developer, mainly I work as FrontEnd Developer. Currently I am working in Perficient as Software Developer</h3>
+<h3 align="justify">I am passionate developer, mainly I work as FrontEnd Developer. Currently I am working at Perficient as Software Developer</h3>
 
 ## About Me</br>
 
 <p align="justify">
-Hi, I am Jorge Prieto. Currently FrontEnd developer starting as a Performance Engineer. I spend my time on personal projects and learning more about Front-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+), React, GIT, GitHub, Tailwind, NextJS, and I am learning testing with Jest and Cypress. However, I am constantly learning and I am open to new technologies.</p>
+Hi, I am Jorge Prieto. Currently FrontEnd developer starting as a Performance Engineer. I spend my time on personal projects and learning more about Front-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+), React, GIT, GitHub, Tailwind, NextJS, and I am learning testing with Jest and Cypress. However, I am constantly learning and I am open to new technologies.
+
+As a Performance Engineer, I am currently working with Sitespeed and Lighhouse CLI / CI for FrontEnd.
+</p>
 
 </br>
 
